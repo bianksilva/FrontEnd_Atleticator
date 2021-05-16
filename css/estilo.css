@@ -1,12 +1,42 @@
+#cabecalho{
+	background:#43054e;
+	
+	
+}
 #home{
-	background: #ffc107;
+	background:#551A8B;
 	color: white;
 }
 
 .caixa{
+	background: #e4e4e4;
 	padding: 60px 0;
-	border-bottom: 1px solid #e5e5e5;
+	
 }
-footer p a{
-	margin: 5px 15px;
+.caixa1{
+	background: #f9f9f9;
+	padding: 60px 0;
+	
+}
+.btn, .btn-group{
+	background:#43054e;
+	
+}
+.busca input{
+	background: url(imagens/search.png) no-repeat center right;
+	padding: 5px;
+	border: none;
+	width: 20px;
+	transition: all 0.5s linear;
+}
+.busca input{
+	width: 200px;
+	border-bottom: solid 1px #ddd;
+	outline: none;
+
+}
+.footer , a{
+	background-color: #43054e;
+	margin-bottom: 0px;
+	color: #ddd;
 }
