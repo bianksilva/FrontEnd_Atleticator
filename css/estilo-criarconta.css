@@ -8,6 +8,13 @@
 	color: #e4e4e4;
 	
 }
+
+.save{
+	background:#6a057c;
+	border: 3px; 
+	color: #e4e4e4;
+}
+
 .busca input{
 	background: url("/imagens/search.png") no-repeat center right;
 	padding: 5px;
