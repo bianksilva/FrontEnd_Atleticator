@@ -2,6 +2,12 @@
 	background:#43054e;	
 	height: 80px;
 }
+.btn, .btn-group {
+	background:#43054e;
+	border: 3px; 
+	color: #e4e4e4;
+	
+}
 .busca input{
 	background: url("/imagens/search.png") no-repeat center right;
 	padding: 5px;
